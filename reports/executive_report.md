@@ -1,25 +1,20 @@
-# E-Commerce Analytics — Executive Report
+# Ecommerce RFM Analytics — Demo Run Summary
 
-**Portfolio project:** Abdelhamid Moltazim  
-**Reference date for RFM:** 15 Aug 2026
+> **Data note:** These results are calculated from synthetic demonstration data generated for this repository. They are not actual customer or sales results.
 
-## KPI snapshot
-- Net revenue: **€131,048.69**
-- Orders: **1,500**
-- Customers: **300**
-- Average order value: **€87.37**
-- At-risk / churned share: **31.3%**
-- VIP Champion share of customer monetary value: **57.4%**
+- Orders in dataset: 240
+- Returned orders excluded: 12
+- Orders analyzed: 228
+- Customers analyzed: 80
+- Revenue in source currency: 59,031.00
+- Average order value: 258.91
 
-## What the project demonstrates
-- Customer-level RFM segmentation with explicit rules.
-- Revenue and acquisition-channel analysis using Pandas.
-- Reproducible outputs for downstream dashboarding and business discussion.
+## RFM segment counts
+- At Risk: 4
+- Potential Loyalists: 76
 
-## Important interpretation note
-The figures above are calculated directly from the supplied portfolio dataset. They are **project results, not claims about a real client or company**.
+## Method
+Recency is calculated from the day after the latest valid order date. Frequency counts distinct non-returned orders per customer. Monetary value is the sum of order value. Segment thresholds are illustrative and should be reviewed for the business context.
 
-## Suggested business actions
-1. Prioritize retention analysis for high-value customers with high recency risk.
-2. Compare acquisition channels on both volume and revenue before increasing spend.
-3. Combine RFM segments with category/channel analysis for targeted campaigns.
+## Limitations
+The generated dataset is a portfolio demonstration sample. Segment definitions and results should not be interpreted as findings about a real ecommerce business.
