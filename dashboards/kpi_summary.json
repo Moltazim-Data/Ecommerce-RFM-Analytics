@@ -1,8 +1,11 @@
 {
-  "orders": 1500,
-  "customers": 300,
-  "revenue": 131048.69,
-  "aov": 87.36579333333333,
-  "at_risk_pct": 31.313131313131315,
-  "vip_revenue_share": 57.38366404120484
+  "customers_analyzed": 80,
+  "orders_analyzed": 228,
+  "revenue": 59031,
+  "average_order_value": 258.91,
+  "segment_counts": {
+    "At Risk": 4,
+    "Potential Loyalists": 76
+  },
+  "data_note": "Calculated from the repository's synthetic demonstration data; returned orders excluded."
 }
