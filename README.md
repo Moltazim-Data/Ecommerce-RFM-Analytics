@@ -1,5 +1,8 @@
 # Ecommerce RFM Analytics
 
+
+> **Demo data notice:** The datasets and chart assets added for this repository are synthetic examples generated for demonstration. They are not real customer or transaction records.
+
 Python and SQL analytics for e-commerce revenue, customer segmentation, and RFM-based customer behavior analysis.
 
 ## Project contents
