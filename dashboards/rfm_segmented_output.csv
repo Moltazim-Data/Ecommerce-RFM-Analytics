@@ -1,0 +1,81 @@
+customer_id,recency_days,frequency,monetary_value,rfm_segment
+C0001,13,8,213.00,Loyal Customers
+C0002,26,15,326.00,Champions
+C0003,39,4,439.00,Potential Loyalists
+C0004,52,11,552.00,Loyal Customers
+C0005,65,18,665.00,Loyal Customers
+C0006,78,7,778.00,Loyal Customers
+C0007,91,14,891.00,Loyal Customers
+C0008,104,3,1004.00,Potential Loyalists
+C0009,117,10,1117.00,Loyal Customers
+C0010,130,17,1230.00,At Risk
+C0011,143,6,1343.00,At Risk
+C0012,156,13,1456.00,At Risk
+C0013,169,2,1569.00,At Risk
+C0014,2,9,1682.00,Loyal Customers
+C0015,15,16,1795.00,Champions
+C0016,28,5,1908.00,Potential Loyalists
+C0017,41,12,2021.00,Loyal Customers
+C0018,54,1,2134.00,Potential Loyalists
+C0019,67,8,2247.00,Loyal Customers
+C0020,80,15,2360.00,Loyal Customers
+C0021,93,4,2473.00,Potential Loyalists
+C0022,106,11,2586.00,Loyal Customers
+C0023,119,18,199.00,Loyal Customers
+C0024,132,7,312.00,At Risk
+C0025,145,14,425.00,At Risk
+C0026,158,3,538.00,At Risk
+C0027,171,10,651.00,At Risk
+C0028,4,17,764.00,Champions
+C0029,17,6,877.00,Loyal Customers
+C0030,30,13,990.00,Loyal Customers
+C0031,43,2,1103.00,Potential Loyalists
+C0032,56,9,1216.00,Loyal Customers
+C0033,69,16,1329.00,Loyal Customers
+C0034,82,5,1442.00,Potential Loyalists
+C0035,95,12,1555.00,Loyal Customers
+C0036,108,1,1668.00,Potential Loyalists
+C0037,121,8,1781.00,At Risk
+C0038,134,15,1894.00,At Risk
+C0039,147,4,2007.00,At Risk
+C0040,160,11,2120.00,At Risk
+C0041,173,18,2233.00,At Risk
+C0042,6,7,2346.00,Loyal Customers
+C0043,19,14,2459.00,Champions
+C0044,32,3,2572.00,Potential Loyalists
+C0045,45,10,185.00,Loyal Customers
+C0046,58,17,298.00,Loyal Customers
+C0047,71,6,411.00,Loyal Customers
+C0048,84,13,524.00,Loyal Customers
+C0049,97,2,637.00,Potential Loyalists
+C0050,110,9,750.00,Loyal Customers
+C0051,123,16,863.00,At Risk
+C0052,136,5,976.00,At Risk
+C0053,149,12,1089.00,At Risk
+C0054,162,1,1202.00,At Risk
+C0055,175,8,1315.00,At Risk
+C0056,8,15,1428.00,Champions
+C0057,21,4,1541.00,Potential Loyalists
+C0058,34,11,1654.00,Loyal Customers
+C0059,47,18,1767.00,Loyal Customers
+C0060,60,7,1880.00,Loyal Customers
+C0061,73,14,1993.00,Loyal Customers
+C0062,86,3,2106.00,Potential Loyalists
+C0063,99,10,2219.00,Loyal Customers
+C0064,112,17,2332.00,Loyal Customers
+C0065,125,6,2445.00,At Risk
+C0066,138,13,2558.00,At Risk
+C0067,151,2,171.00,At Risk
+C0068,164,9,284.00,At Risk
+C0069,177,16,397.00,At Risk
+C0070,10,5,510.00,Potential Loyalists
+C0071,23,12,623.00,Champions
+C0072,36,1,736.00,Potential Loyalists
+C0073,49,8,849.00,Loyal Customers
+C0074,62,15,962.00,Loyal Customers
+C0075,75,4,1075.00,Potential Loyalists
+C0076,88,11,1188.00,Loyal Customers
+C0077,101,18,1301.00,Loyal Customers
+C0078,114,7,1414.00,Loyal Customers
+C0079,127,14,1527.00,At Risk
+C0080,140,3,1640.00,At Risk
