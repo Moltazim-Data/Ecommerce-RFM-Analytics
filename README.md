@@ -19,3 +19,6 @@ python scripts/analytics_engine.py
 ```
 
 **Note:** The churn-risk label is a recency-based heuristic, not a trained predictive model. Some source customer records may not match an order.
+
+## Analysis report
+See [reports/portfolio_report.md](reports/portfolio_report.md) for the report structure, business questions, interpretation caveats, and recommended next actions.
