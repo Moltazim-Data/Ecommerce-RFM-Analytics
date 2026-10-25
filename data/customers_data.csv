@@ -1,0 +1,81 @@
+customer_id,signup_date,region,acquisition_channel
+C0001,2021-02-02,South,Paid Search
+C0002,2022-03-03,East,Social
+C0003,2023-04-04,West,Referral
+C0004,2024-05-05,North,Organic
+C0005,2020-06-06,South,Paid Search
+C0006,2021-07-07,East,Social
+C0007,2022-08-08,West,Referral
+C0008,2023-09-09,North,Organic
+C0009,2024-10-10,South,Paid Search
+C0010,2020-11-11,East,Social
+C0011,2021-12-12,West,Referral
+C0012,2022-01-13,North,Organic
+C0013,2023-02-14,South,Paid Search
+C0014,2024-03-15,East,Social
+C0015,2020-04-16,West,Referral
+C0016,2021-05-17,North,Organic
+C0017,2022-06-18,South,Paid Search
+C0018,2023-07-19,East,Social
+C0019,2024-08-20,West,Referral
+C0020,2020-09-21,North,Organic
+C0021,2021-10-22,South,Paid Search
+C0022,2022-11-23,East,Social
+C0023,2023-12-24,West,Referral
+C0024,2024-01-25,North,Organic
+C0025,2020-02-26,South,Paid Search
+C0026,2021-03-27,East,Social
+C0027,2022-04-01,West,Referral
+C0028,2023-05-02,North,Organic
+C0029,2024-06-03,South,Paid Search
+C0030,2020-07-04,East,Social
+C0031,2021-08-05,West,Referral
+C0032,2022-09-06,North,Organic
+C0033,2023-10-07,South,Paid Search
+C0034,2024-11-08,East,Social
+C0035,2020-12-09,West,Referral
+C0036,2021-01-10,North,Organic
+C0037,2022-02-11,South,Paid Search
+C0038,2023-03-12,East,Social
+C0039,2024-04-13,West,Referral
+C0040,2020-05-14,North,Organic
+C0041,2021-06-15,South,Paid Search
+C0042,2022-07-16,East,Social
+C0043,2023-08-17,West,Referral
+C0044,2024-09-18,North,Organic
+C0045,2020-10-19,South,Paid Search
+C0046,2021-11-20,East,Social
+C0047,2022-12-21,West,Referral
+C0048,2023-01-22,North,Organic
+C0049,2024-02-23,South,Paid Search
+C0050,2020-03-24,East,Social
+C0051,2021-04-25,West,Referral
+C0052,2022-05-26,North,Organic
+C0053,2023-06-27,South,Paid Search
+C0054,2024-07-01,East,Social
+C0055,2020-08-02,West,Referral
+C0056,2021-09-03,North,Organic
+C0057,2022-10-04,South,Paid Search
+C0058,2023-11-05,East,Social
+C0059,2024-12-06,West,Referral
+C0060,2020-01-07,North,Organic
+C0061,2021-02-08,South,Paid Search
+C0062,2022-03-09,East,Social
+C0063,2023-04-10,West,Referral
+C0064,2024-05-11,North,Organic
+C0065,2020-06-12,South,Paid Search
+C0066,2021-07-13,East,Social
+C0067,2022-08-14,West,Referral
+C0068,2023-09-15,North,Organic
+C0069,2024-10-16,South,Paid Search
+C0070,2020-11-17,East,Social
+C0071,2021-12-18,West,Referral
+C0072,2022-01-19,North,Organic
+C0073,2023-02-20,South,Paid Search
+C0074,2024-03-21,East,Social
+C0075,2020-04-22,West,Referral
+C0076,2021-05-23,North,Organic
+C0077,2022-06-24,South,Paid Search
+C0078,2023-07-25,East,Social
+C0079,2024-08-26,West,Referral
+C0080,2020-09-27,North,Organic
